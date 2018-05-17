@@ -12,10 +12,13 @@ This is a demo app used as a reference to resolve an Angular 6 / Contentful bug.
 
 ### Setup
 
-1.  `git clone https://github.com/bellizio/ng6-contentful.git`
+1.  `git@github.com:Khaledgarbaya/contentful-angular6-starter.git`
 1.  `cd ng6-contentful`
 1.  `yarn install`
 
 ## Development
 
 1.  Run `npm start` to build and serve the app for development.
+
+## Credit
+A bigg thank you to @bellizio for starting this.
